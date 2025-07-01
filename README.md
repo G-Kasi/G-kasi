@@ -1,47 +1,18 @@
-# 👋 Hi there! I'm Kasi G
+# 💫 About Me:
+i am currently working on my final year project<br>
 
-🎓 I’m currently a final-year engineering student at **Sreyas Institute of Engineering**, Hyderabad.  
-🚀 Passionate about software development, machine learning, and building projects that make a difference.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KASIM G) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gkasim0206@gmail.com) 
 
-## 🌟 Projects I’ve Built
-- 🎮 **Gamified Habit Tracker**  
-  A MERN stack app with authentication, progress tracking, community forums, and gamification for daily habits.
-  
-- 🧠 **Mental Health Tracker**  
-  A web-based app to help users log mood, monitor mental well-being, and access mental health resources.
-  
-- 🎵 **Music Genre Generator (ML Project)**  
-  Built with machine learning techniques to classify or generate music genres based on audio input and metadata.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=G-kasi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=G-kasi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=G-kasi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=G-kasi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technologies & Tools
-
-**Languages & Scripting:**  
-`Python` | `JavaScript` | `HTML` | `CSS` | `SQL` | `Java (Basic)`
-
-**Frameworks & Libraries:**  
-`React.js` | `Node.js` | `Express.js` | `MongoDB` | `Mongoose` | `Pandas` | `NumPy` | `scikit-learn`
-
-**Tools:**  
-`Git & GitHub` | `VS Code` | `Excel` | `Postman` | `Figma` (basic UI design)
-
----
-
-## 📈 GitHub Stats
-
-![Kasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Kasi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Kasi&layout=compact&theme=tokyonight)
-
----
-
-## 📬 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 📧 Email: yourname@example.com
-- 🌐 Portfolio (if available): yourportfolio.site
-
----
-
-_Thanks for stopping by! Let's build something amazing together 💻✨_
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
